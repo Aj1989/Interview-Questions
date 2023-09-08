@@ -1,0 +1,43 @@
+ICE interview First Round
+-----------------------------------
+1. what is babel?
+2. Do we need babel in plain vanilla JS application?
+3. How Javascript is processed in browser?
+4. write function which after getting called with same parameter should not waste time in execution again? (memoization )
+5. if you want to create functonality and then wanted evryone in team to use it , than how will you do ?
+6. what is package-lock?
+7. what version of JS you are using and what is EcmaScript? 
+8. what all new features there in ES6?
+9. write pollyfill for map, reduce and then write pollyfill for reduce to accept initial value.
+10. write small state management system in plain JS?
+11. what is closures?
+12. what is lexical scope?
+13. Event loop?
+14. what is priority of callback and promises in event loop?
+15. how will you create bundle.js?
+16. what is tree shaking?
+
+
+React
+---------------------------------------------------------------
+1. how react works?
+2. what are advantages to use react ?
+3. optimisation in react ?
+4. how will you access state from most nested component ?
+5. what is suspense and fallback ?
+6. what is useReducer?
+7. Can you create custom hook?
+8. in your project how and where you used custom hoook?
+9. what is HOC?
+10. create one simple HOC?
+11. unit testing in react js ?
+12. what is Server side rendering ?
+11. how you handle security in react app?
+12. create react app with using vite or create-react-app?
+13. how React.Memo works ?
+14. diffrence between usecallback and useMemo?
+15. what is virtual dom ?
+16. lifecycle methods of react ?
+17. Routing mechanism in react ?
+18. Redux toolkit mechanism?
+19. how you deploy react app?
