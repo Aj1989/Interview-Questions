@@ -1,0 +1,19 @@
+Coforge first round of interview for UI tech lead position
+------------------------------------------------------------------
+
+1. Diffrence between map and reduce.
+2. how to do deep copy of object (wanted function to do deep copy)
+3. ES6 generator function
+4. diffrence between arrow and normal function 
+5. shallow copy creation
+6. What is Event loop?
+7. write useState hook in vanilla JS
+
+React
+--------------------------
+1. diffrence between react V18 and prev version
+2. How to manage state in react js
+3. what is useMemo and useCallback and what is diffrence 
+4. what all optimasation technique you will use for better performance
+5. How to make tab highlight when it is active?
+6. write small application for routing homepage.
