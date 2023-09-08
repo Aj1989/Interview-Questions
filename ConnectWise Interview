@@ -1,0 +1,24 @@
+Connectwise First Round Interview Question
+--------------------------------------------------------
+1. what is closure?
+2. what is function currying? create example in vanila JS.
+3. what is prototypal inheritance ?
+4. How JS inheritence is diffrent from class inheritance?
+5. promise vs async await vs callback
+6. What all practices you follow to make sure about optimisation of website.
+7. memory leaks 
+8. debouncing 
+
+react
+---------------------------
+1. how will you make sure that if you have huge data then to render it with effective methods such that user shd get proper experience and no hanging ?
+2. explain redux and whay we use it ?
+3. what redux toolkit do?
+4. how you provide store to component ?
+5. explain routing ?
+6. what is loader and action in routing ?
+7. how to access loader or action from parennt component ?
+8. how you do unit testing ?
+9. how you deploy application ?
+10. what all measure you take for your website security ?
+11. how does react engine works?
