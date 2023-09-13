@@ -28,3 +28,5 @@ ICE 2nd round time (2:45 hrs)
 25. what is memoization and how can we achieve it ?
 26. what is your approach to learn any new technology or language ?
 27. what is diffrence between shallow copy and deep copy?
+28. diffrence between React.Memo, useMemo and useCallback ?
+
