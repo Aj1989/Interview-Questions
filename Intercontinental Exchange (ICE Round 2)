@@ -1,0 +1,30 @@
+ICE 2nd round time (2:45 hrs)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+1. what optimisation technique you have used for application not specific to react you can have JS application as well?
+2. How can you view your code in developer tool once it is transpile from JSX to browser understandable? --> Source Map
+3. How will you add data in collection and update state ? collection may be Array -> ES6 new features --> concat and spread operator --> we should ask questions
+4. how will you get state in redux ?
+5. Explain full flow of how data is flown from submiting a form to saved in database?
+6. where do you write your api service calls ? --> middlewares, async as well
+7. context API?
+8. what all things makes component to rerender?
+9. what transpiler is used for?
+10. explain reducer function in redux.
+11. How will you find element from collection in O(1) time complexity?
+12. ES6 new features
+13. how things are rendered in react ? please write code for the same
+14. Thunk, asyncThunk
+15. what are pure function and how does it has importance in react 
+16. React is based on which architecture? --> React Fiber
+17. how do you load data in routing mechanism --> loaders and actions
+18. what all security precausions you have taken in application?
+19. How do you debug your application and what all tools you are using ?
+20. write unit test case for simple hello world application
+21. what is webpack ?
+22. what is lifecycle methods of react ?
+23. what is diffrence between npm create-react-app and npx create-react-app
+24. what is JWT ?
+25. what is memoization and how can we achieve it ?
+26. what is your approach to learn any new technology or language ?
+27. what is diffrence between shallow copy and deep copy?
